@@ -25,22 +25,22 @@ A full-stack web application for creating, managing, and participating in events
 
 
 ## ⚙️ Installation & Setup
-
+```bash
 git clone https://github.com/<your-username>/mini-event-platform.git
 cd mini-event-platform
 
 **Frontend-Setup**
-cd frontend
-npm install
-npm start
-Frontend runs on:
+-cd frontend
+-npm install
+-npm start
+-Frontend runs on:
 
-http://localhost:3000
+-http://localhost:3000
 
 **Backend-setup**
-cd backend
-npm install
-npm start
+-cd backend
+-npm install
+-npm start
 
-http://localhost:5000
+-http://localhost:5000
 
